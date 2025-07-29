@@ -55,5 +55,4 @@ An IoT-based smart Medibox system using ESP32 and Node-RED for real-time monitor
 
 ---
 
-## 📂 Folder Structure
 
