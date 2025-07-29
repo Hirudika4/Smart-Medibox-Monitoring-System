@@ -28,7 +28,11 @@ An IoT-based smart Medibox system using ESP32 and Node-RED for real-time monitor
 
 ## 📷 Screenshots
 
-> *(Insert screenshots of your Node-RED dashboard and hardware setup here)*
+<img width="899" height="559" alt="Screenshot 2025-07-29 192904" src="https://github.com/user-attachments/assets/5fb0c907-4120-46f2-b953-a86d77c4dd7d" />
+
+<img width="1280" height="599" alt="WhatsApp Image 2025-07-29 at 19 52 03_ccbf5581" src="https://github.com/user-attachments/assets/bd7f0fe9-7e10-4420-ab89-ad05cdc0edac" />
+
+
 
 ---
 
